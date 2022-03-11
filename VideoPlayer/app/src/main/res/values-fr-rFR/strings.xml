@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur vidéo</string>
+    <string name="button_select">Importer</string>
+    <string name="button_play">Lancer (app. ext.)</string>
+    <string name="button_start">Lancer</string>
+    <string name="button_resume">Pause/Reprendre</string>
+</resources>
